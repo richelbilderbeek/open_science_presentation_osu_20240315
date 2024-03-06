@@ -76,6 +76,7 @@ Report on national guidelines for open science. Background and development @repo
 -   research methods, protocols and program code "as open as possible, as limited as necessary", documented sufficiently and FAIR
 -   researchers get support to make research methods FAIR from research-performing organizations
 -   research methods should use open licenses, be shared and shared in a standarized way
+-   different research fields develop their own standards for sharing research methods
 
 # Open learning resources
 
@@ -92,7 +93,7 @@ Report on national guidelines for open science. Background and development @repo
 # Infrastructures that support open science
 
 -   open science infrastructures is financed nationally
--   more money to non-profit infrastructures
+-   more money to non-profit infrastructures for open access publishing
 -   develop infrastructures of open research methods
 -   develop standards that link together publications, research data and methods
 
