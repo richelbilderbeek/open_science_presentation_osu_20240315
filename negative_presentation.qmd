@@ -4,7 +4,7 @@ author: "Richèl Bilderbeek"
 format: revealjs
 editor: visual
 from: markdown+emoji
-bibliography: neutral_presentation.bib
+bibliography: negative_presentation.bib
 csl: vancouver.csl
 css: styles.css
 slide-number: true
@@ -12,9 +12,11 @@ number-sections: true
 number-offset: -1
 ---
 
-# Criticism on the National guidelines for promoting open science in Sweden
+# Preface
 
 ![](CC0.png) Richèl Bilderbeek
+
+# The guidelines
 
 ## Problem
 
@@ -54,10 +56,17 @@ Report on national guidelines for open science. Background and development @repo
 5.  Public participation in the research process
 6.  Infrastructures that support open science
 
-## Criticism
+# The criticism
 
 - Ironically in Swedish
 - Unconvincing to any critical reader
+- Nearly no effect on the most prevalent problems in academia
+
+# Ironically in Swedish
+
+- **Ironically in Swedish**
+- Unconvincing to any critical reader
+- Nearly no effect on the most prevalent problems in academia
 
 ## Ironically in Swedish
 
@@ -72,7 +81,13 @@ No English translation after exactly two months!
 
 (Note that OSU is in English with the goal of being inclusive!)
 
-## Unconvincing to any critical reader 1/4
+# Unconvincing to any critical reader
+
+- Ironically in Swedish
+- **Unconvincing to any critical reader**
+- Nearly no effect on the most prevalent problems in academia
+
+## Unconvincing to any critical reader
 
 Let's start with the second sentence in @guidelines:
 
@@ -82,7 +97,7 @@ In English:
 
 > The purpose of the work for open science is to contribute partly to increased scientific quality, partly to improve the interaction between research and the surrounding society. 
 
-## Unconvincing to any critical reader 2/4
+## Unconvincing to any critical reader
 
 > The purpose of the work for open science is 
 > to contribute partly to increased scientific quality, 
@@ -92,7 +107,7 @@ No references!
 
 - 'increased scientific quality': how much was the increase? how was scientific quality defined?
 
-## Unconvincing to any critical reader 3/4
+## Unconvincing to any critical reader
 
 > The purpose of the work for open science is 
 > to contribute partly to increased scientific quality, 
@@ -104,7 +119,7 @@ No references!
   how much does Open Science improve this action? How was the quality of the interaction defined?
   What about the industry?
 
-## Unconvincing to any critical reader 4/4
+## Unconvincing to any critical reader
 
 > The purpose of the work for open science is 
 > to contribute partly to increased scientific quality, 
@@ -112,5 +127,79 @@ No references!
 
 Within OSU, we **look for** and **share** those references!
 
+# Nearly no effect on the most prevalent problems in academia
+
+- Ironically in Swedish
+- Unconvincing to any critical reader
+- **Nearly no effect on the most prevalent problems in academia**
+
+## Nearly no effect on the most prevalent problems
+
+If 'The purpose of the work [...] is to contribute partly to increased 
+scientific quality' @guidelines, let's look at the most important
+problems in academia.
+
+Here I show two studies.
+
+## Nearly no effect on the most prevalent problems
+
+First study: @gopalakrishna2022prevalence
+used an anonymous survey to measure the prevalence
+of Questionable Research Practices.
+
+- 6813 Dutch filled it in correctly
+- fraud rate: 2%
+
+## Nearly no effect on the most prevalent problems
+
+%   | QRP                                                |Addressed
+----|----------------------------------------------------|------------------------
+17.5| No submission of a valid negative finding          |No
+17.0| Not mentioning flaws in the study                  |Maybe
+15.0| Too little supervision                             |No
+14.7| Too little attention to proper use of technology   |No
+14.5| Too little documentation of the scientific process |Yes
+
+## Nearly no effect on the most prevalent problems
+
+Second study: @munafo2017manifesto 
+is a manifesto for reproducible science,
+which aligns closely with the KB proposal, 
+as both papers intend 
+to increase the reproducibility of science.
+
+## Nearly no effect on the most prevalent problems
+
+![](munafo_et_al_2021_adapted_correct.png)@munafo2017manifesto
+
+## Nearly no effect on the most prevalent problems
+
+Frequency                               |Threat|Addressed
+----------------------------------------|-------------------------------|------------------------
+70-92% @fanelli2010positive             | Publication bias              |No
+~70% @wicherts2006poor                  | Lack of data sharing          |Yes
+~1% of papers @makel2012replications    | Lack of replication           |No
+~54% @john2012measuring                 | HARKing                       |No
+
+## Nearly no effect on the most prevalent problems
+
+Frequency                                                         |Threat|Addressed
+------------------------------------------------------------------|-------------------------------|------------------------
+Median of 0.46 power for medium size effect @sedlmeier1992studies | Low statistical power         |No
+~60-70% @john2012measuring                                        | P-value hacking               |No
+
+## Nearly no effect on the most prevalent problems
+
+If 'The purpose of the work [...] is to contribute partly to increased 
+scientific quality' @guidelines, 
+the most prevalent problems in academia are addressed poorly.
+
+# Conclusion
+
+Criticism on @guidelines
+
+- Ironically in Swedish
+- Unconvincing to any critical reader
+- Nearly no effect on the most prevalent problems
 
 # References
