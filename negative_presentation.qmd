@@ -1,0 +1,116 @@
+---
+title: "Criticism on the National guidelines for promoting open science in Sweden"
+author: "Richèl Bilderbeek"
+format: revealjs
+editor: visual
+from: markdown+emoji
+bibliography: neutral_presentation.bib
+csl: vancouver.csl
+css: styles.css
+slide-number: true
+number-sections: true
+number-offset: -1
+---
+
+# Criticism on the National guidelines for promoting open science in Sweden
+
+![](CC0.png) Richèl Bilderbeek
+
+## Problem
+
+-   EU/UNESCO want Open Science
+-   in Sweden, there is a gap between current practices and Open Science
+
+## Guidelines
+
+::: columns
+::: {.column width="40%"}
+![](guidelines.png)
+:::
+
+::: {.column width="60%"}
+National guidelines for promoting open science in Sweden @guidelines. 2024-01-15
+:::
+:::
+
+## Report
+
+::: columns
+::: {.column width="40%"}
+![](report.png)
+:::
+
+::: {.column width="60%"}
+Report on national guidelines for open science. Background and development @report. 2024-01-15
+:::
+:::
+
+## The six proposed guidelines
+
+1.  Open access to scientific publications
+2.  Open access to research data
+3.  Open research methods
+4.  Open learning resources
+5.  Public participation in the research process
+6.  Infrastructures that support open science
+
+## Criticism
+
+- Ironically in Swedish
+- Unconvincing to any critical reader
+
+## Ironically in Swedish
+
+From @unesco_os_toolkit:
+
+> Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is inclusive, equitable and sustainable. 
+
+It is ironic that the guidelines are in Swedish:
+so science **policy** does not need to be inclusive?
+
+No English translation after exactly two months!
+
+(Note that OSU is in English with the goal of being inclusive!)
+
+## Unconvincing to any critical reader 1/4
+
+Let's start with the second sentence in @guidelines:
+
+> Syftet med arbetet för öppen vetenskap är att bidra dels till ökad vetenskaplig kvalitet, dels att förbättra samspelet mellan forskningen och det omgivande samhället. 
+
+In English:
+
+> The purpose of the work for open science is to contribute partly to increased scientific quality, partly to improve the interaction between research and the surrounding society. 
+
+## Unconvincing to any critical reader 2/4
+
+> The purpose of the work for open science is 
+> to contribute partly to increased scientific quality, 
+> partly to improve the interaction between research and the surrounding society. 
+
+No references!
+
+- 'increased scientific quality': how much was the increase? how was scientific quality defined?
+
+## Unconvincing to any critical reader 3/4
+
+> The purpose of the work for open science is 
+> to contribute partly to increased scientific quality, 
+> partly to improve the interaction between research and the surrounding society. 
+
+No references!
+
+- 'to improve the interaction between research and the surrounding society':
+  how much does Open Science improve this action? How was the quality of the interaction defined?
+  What about the industry?
+
+## Unconvincing to any critical reader 4/4
+
+> The purpose of the work for open science is 
+> to contribute partly to increased scientific quality, 
+> partly to improve the interaction between research and the surrounding society. 
+
+Within OSU, we **look for** and **share** those references!
+
+
+# References

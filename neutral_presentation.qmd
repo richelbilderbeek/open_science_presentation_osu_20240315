@@ -14,7 +14,7 @@ number-offset: -1
 
 # National guidelines for promoting open science in Sweden
 
-![](CC-BY-NC-SA.png) Richèl Bilderbeek
+![](CC0.png) Richèl Bilderbeek
 
 ## Problem
 
@@ -71,7 +71,7 @@ Report on national guidelines for open science. Background and development @repo
 -   cost-effective management of open data
 -   researchers get support to make data FAIR from e.g. universities
 
-# Open research methods
+# Open methods
 
 -   research methods, protocols and program code "as open as possible, as limited as necessary", documented sufficiently and FAIR
 -   researchers get support to make research methods FAIR from research-performing organizations
