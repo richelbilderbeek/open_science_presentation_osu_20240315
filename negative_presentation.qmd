@@ -58,24 +58,25 @@ Report on national guidelines for open science. Background and development @repo
 
 # The criticism
 
-- Ironically in Swedish
-- Unconvincing to any critical reader
-- Nearly no effect on the most prevalent problems in academia
+-   Ironically in Swedish
+-   Unconvincing to any critical reader
+-   Nearly no effect on the most prevalent problems in academia
+-   Will create more resistance against Open Science
 
 # Ironically in Swedish
 
-- **Ironically in Swedish**
-- Unconvincing to any critical reader
-- Nearly no effect on the most prevalent problems in academia
+-   **Ironically in Swedish**
+-   Unconvincing to any critical reader
+-   Nearly no effect on the most prevalent problems in academia
+-   Will create more resistance against Open Science
 
 ## Ironically in Swedish
 
 From @unesco_os_toolkit:
 
-> Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is inclusive, equitable and sustainable. 
+> Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is inclusive, equitable and sustainable.
 
-It is ironic that the guidelines are in Swedish:
-so science **policy** does not need to be inclusive?
+It is ironic that the guidelines are in Swedish: so science **policy** does not need to be inclusive?
 
 No English translation after exactly two months!
 
@@ -83,90 +84,76 @@ No English translation after exactly two months!
 
 # Unconvincing to any critical reader
 
-- Ironically in Swedish
-- **Unconvincing to any critical reader**
-- Nearly no effect on the most prevalent problems in academia
+-   Ironically in Swedish
+-   **Unconvincing to any critical reader**
+-   Nearly no effect on the most prevalent problems in academia
+-   Will create more resistance against Open Science
 
 ## Unconvincing to any critical reader
 
 Let's start with the second sentence in @guidelines:
 
-> Syftet med arbetet för öppen vetenskap är att bidra dels till ökad vetenskaplig kvalitet, dels att förbättra samspelet mellan forskningen och det omgivande samhället. 
+> Syftet med arbetet för öppen vetenskap är att bidra dels till ökad vetenskaplig kvalitet, dels att förbättra samspelet mellan forskningen och det omgivande samhället.
 
 In English:
 
-> The purpose of the work for open science is to contribute partly to increased scientific quality, partly to improve the interaction between research and the surrounding society. 
+> The purpose of the work for open science is to contribute partly to increased scientific quality, partly to improve the interaction between research and the surrounding society.
 
 ## Unconvincing to any critical reader
 
-> The purpose of the work for open science is 
-> to contribute partly to increased scientific quality, 
-> partly to improve the interaction between research and the surrounding society. 
+> The purpose of the work for open science is to contribute partly to increased scientific quality, partly to improve the interaction between research and the surrounding society.
 
 No references!
 
-- 'increased scientific quality': how much was the increase? how was scientific quality defined?
+-   'increased scientific quality': how much was the increase? how was scientific quality defined?
 
 ## Unconvincing to any critical reader
 
-> The purpose of the work for open science is 
-> to contribute partly to increased scientific quality, 
-> partly to improve the interaction between research and the surrounding society. 
+> The purpose of the work for open science is to contribute partly to increased scientific quality, partly to improve the interaction between research and the surrounding society.
 
 No references!
 
-- 'to improve the interaction between research and the surrounding society':
-  how much does Open Science improve this action? How was the quality of the interaction defined?
-  What about the industry?
+-   'to improve the interaction between research and the surrounding society': how much does Open Science improve this action? How was the quality of the interaction defined? What about the industry?
 
 ## Unconvincing to any critical reader
 
-> The purpose of the work for open science is 
-> to contribute partly to increased scientific quality, 
-> partly to improve the interaction between research and the surrounding society. 
+> The purpose of the work for open science is to contribute partly to increased scientific quality, partly to improve the interaction between research and the surrounding society.
 
 Within OSU, we **look for** and **share** those references!
 
 # Nearly no effect on the most prevalent problems in academia
 
-- Ironically in Swedish
-- Unconvincing to any critical reader
-- **Nearly no effect on the most prevalent problems in academia**
+-   Ironically in Swedish
+-   Unconvincing to any critical reader
+-   **Nearly no effect on the most prevalent problems in academia**
+-   Will create more resistance against Open Science
 
 ## Nearly no effect on the most prevalent problems
 
-If 'The purpose of the work [...] is to contribute partly to increased 
-scientific quality' @guidelines, let's look at the most important
-problems in academia.
+If 'The purpose of the work \[...\] is to contribute partly to increased scientific quality' @guidelines, let's look at the most important problems in academia.
 
-Here I show two studies.
+Here I show three studies.
 
 ## Nearly no effect on the most prevalent problems
 
-First study: @gopalakrishna2022prevalence
-used an anonymous survey to measure the prevalence
-of Questionable Research Practices.
+First study: @gopalakrishna2022prevalence used an anonymous survey to measure the prevalence of Questionable Research Practices.
 
-- 6813 Dutch filled it in correctly
-- fraud rate: 2%
+-   6813 Dutch filled it in correctly
+-   fraud rate: 2%
 
 ## Nearly no effect on the most prevalent problems
 
-%   | QRP                                                |Addressed
-----|----------------------------------------------------|------------------------
-17.5| No submission of a valid negative finding          |No
-17.0| Not mentioning flaws in the study                  |Maybe
-15.0| Too little supervision                             |No
-14.7| Too little attention to proper use of technology   |No
-14.5| Too little documentation of the scientific process |Yes
+| \%   | QRP                                                | Addressed |
+|------|----------------------------------------------------|-----------|
+| 17.5 | No submission of a valid negative finding          | No        |
+| 17.0 | Not mentioning flaws in the study                  | Maybe     |
+| 15.0 | Too little supervision                             | No        |
+| 14.7 | Too little attention to proper use of technology   | No        |
+| 14.5 | Too little documentation of the scientific process | Yes       |
 
 ## Nearly no effect on the most prevalent problems
 
-Second study: @munafo2017manifesto 
-is a manifesto for reproducible science,
-which aligns closely with the KB proposal, 
-as both papers intend 
-to increase the reproducibility of science.
+Second study: @munafo2017manifesto is a manifesto for reproducible science, which aligns closely with the KB proposal, as both papers intend to increase the reproducibility of science.
 
 ## Nearly no effect on the most prevalent problems
 
@@ -174,32 +161,74 @@ to increase the reproducibility of science.
 
 ## Nearly no effect on the most prevalent problems
 
-Frequency                               |Threat|Addressed
-----------------------------------------|-------------------------------|------------------------
-70-92% @fanelli2010positive             | Publication bias              |No
-~70% @wicherts2006poor                  | Lack of data sharing          |Yes
-~1% of papers @makel2012replications    | Lack of replication           |No
-~54% @john2012measuring                 | HARKing                       |No
+| Frequency                             | Threat               | Addressed |
+|---------------------------------------|----------------------|-----------|
+| 70-92% @fanelli2010positive           | Publication bias     | No        |
+| \~70% @wicherts2006poor               | Lack of data sharing | Yes       |
+| \~1% of papers @makel2012replications | Lack of replication  | No        |
+| \~54% @john2012measuring              | HARKing              | No        |
 
 ## Nearly no effect on the most prevalent problems
 
-Frequency                                                         |Threat|Addressed
-------------------------------------------------------------------|-------------------------------|------------------------
-Median of 0.46 power for medium size effect @sedlmeier1992studies | Low statistical power         |No
-~60-70% @john2012measuring                                        | P-value hacking               |No
+| Frequency                                                         | Threat                | Addressed |
+|-------------------------------------|------------------|-----------------|
+| Median of 0.46 power for medium size effect @sedlmeier1992studies | Low statistical power | No        |
+| \~60-70% @john2012measuring                                       | P-value hacking       | No        |
 
 ## Nearly no effect on the most prevalent problems
 
-If 'The purpose of the work [...] is to contribute partly to increased 
-scientific quality' @guidelines, 
-the most prevalent problems in academia are addressed poorly.
+Third study @fraser2018questionable, none are addressed:
+
+![](fraser_et_al_2018_fig_1.png)
+
+## Nearly no effect on the most prevalent problems
+
+If 'The purpose of the work \[...\] is to contribute partly to increased scientific quality' @guidelines, the most prevalent problems in academia are addressed poorly.
+
+# Will create more resistance against Open Science
+
+-   Ironically in Swedish
+-   Unconvincing to any critical reader
+-   Nearly no effect on the most prevalent problems in academia
+-   **Will create more resistance against Open Science**
+
+## Will create more resistance against Open Science 1/3
+
+From the guidelines @guidelines:
+
+-   [open data] researchers get support to make data FAIR from e.g. universities
+-   [open methods] researchers get support to make research methods FAIR from research-performing organizations
+-   [public participation] research-performing organizations offer support
+
+It insinuates Open Science costs more time.
+
+## Will create more resistance against Open Science 2/3
+
+Why people do QRPs @gopalakrishna2022prevalence:
+
+![](gopalakrishna_et_al_2021_questionable_table_3b_annotated.png)
+
+## Will create more resistance against Open Science 3/3
+
+Adding more work will discourage doing Open Science. Or would the support actually save time?
+
+My statements:
+
+- if support **actually** saves time, most scientists will do Open Science
+- this is not the case
+- this is possible
 
 # Conclusion
 
 Criticism on @guidelines
 
-- Ironically in Swedish
-- Unconvincing to any critical reader
-- Nearly no effect on the most prevalent problems
+-   Ironically in Swedish
+-   Unconvincing to any critical reader
+-   Nearly no effect on the most prevalent problems
+-   Will create more resistance against Open Science
+
+# Discussion
+
+-   There are solutions for all these problems
 
 # References
