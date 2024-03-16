@@ -130,7 +130,7 @@ Within OSU, we **look for** and **share** those references!
 
 ## Nearly no effect on the most prevalent problems
 
-If 'The purpose of the work \[...\] is to contribute partly to increased scientific quality' @guidelines, let's look at the most important problems in academia.
+If 'The purpose of [the guidelines] is to contribute partly to increased scientific quality' @guidelines, let's look at the most important problems in academia.
 
 Here I show three studies.
 
@@ -171,7 +171,7 @@ Second study: @munafo2017manifesto is a manifesto for reproducible science, whic
 ## Nearly no effect on the most prevalent problems
 
 | Frequency                                                         | Threat                | Addressed |
-|-------------------------------------|------------------|-----------------|
+|------------------------------------|------------------|------------------|
 | Median of 0.46 power for medium size effect @sedlmeier1992studies | Low statistical power | No        |
 | \~60-70% @john2012measuring                                       | P-value hacking       | No        |
 
@@ -183,7 +183,7 @@ Third study @fraser2018questionable, none are addressed:
 
 ## Nearly no effect on the most prevalent problems
 
-If 'The purpose of the work \[...\] is to contribute partly to increased scientific quality' @guidelines, the most prevalent problems in academia are addressed poorly.
+If 'The purpose of [the guidelines] is to contribute partly to increased scientific quality' @guidelines, the most prevalent problems in academia are addressed poorly.
 
 # Will create more resistance against Open Science
 
@@ -196,9 +196,9 @@ If 'The purpose of the work \[...\] is to contribute partly to increased scienti
 
 From the guidelines @guidelines:
 
--   [open data] researchers get support to make data FAIR from e.g. universities
--   [open methods] researchers get support to make research methods FAIR from research-performing organizations
--   [public participation] research-performing organizations offer support
+-   \[open data\] researchers get support to make data FAIR from e.g. universities
+-   \[open methods\] researchers get support to make research methods FAIR from research-performing organizations
+-   \[public participation\] research-performing organizations offer support
 
 It insinuates Open Science costs more time.
 
@@ -214,9 +214,9 @@ Adding more work will discourage doing Open Science. Or would the support actual
 
 My statements:
 
-- if support **actually** saves time, most scientists will do Open Science
-- this is not the case
-- this is possible
+-   if support **actually** saves time, most scientists will do Open Science
+-   this is not the case
+-   this is possible
 
 # Conclusion
 
